@@ -7,7 +7,8 @@
   Tambi&eacute;n muestra en el display el elestado de los dos rel&eacute;s (ON-OFF)<br/>
   El estado de los rel&eacute; puede modificarse desde la p&aacute;gina web embebida en el microcontrolador.
   <p>
-  Este sketch se basa en el ejemplo original Web Server de Rui Santos. Modificado Osvaldo Cantone, Ramos Mej&iacute;a, ARGENTINA, Agosto de 2022.
+  Este sketch se basa en el ejemplo original Web Server de Rui Santos.<br/>
+  Modificado por Osvaldo Cantone, Ramos Mej&iacute;a, ARGENTINA, Agosto de 2022.
   <p>
   - Osvaldo Cantone  ocantone@gmail.com
     <p alingn=center>
