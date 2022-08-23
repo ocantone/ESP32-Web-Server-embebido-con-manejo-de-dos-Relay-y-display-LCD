@@ -11,5 +11,10 @@
   Modificado por Osvaldo Cantone, Ramos Mej&iacute;a, ARGENTINA, Agosto de 2022.
   <p>
   - Osvaldo Cantone  ocantone@gmail.com
-    <p alingn=center>
+    <p align=center>
     <img src=images/ESP32WS.gif width="80%">
+</p>
+Para la edición de código usaremos el IDE Visual Studio Code en conjunto con la extensión PlatformIO
+ <p align=center>
+    <img src=images/PlatformIO.png width="80%">
+ </p>
