@@ -12,4 +12,4 @@
   <p>
   - Osvaldo Cantone  ocantone@gmail.com
     <p alingn=center>
-    <img src=images/ESP32WebServer.png width="80%">
+    <img src=images/ESP32WS.gif width="80%">
